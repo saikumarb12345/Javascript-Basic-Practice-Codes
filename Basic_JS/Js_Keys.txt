@@ -1,0 +1,6 @@
+str -> "Any string"
+*str.repeat(n) -> Repeats string n number of times.
+*str.substring(start,end) -> To get sub part of String.
+*str.slice(start,end) ->  To get sub part of string(for -ve values count backwards)
+*str.startsWith("string") -> Check for start
+*str.endsWith("string") -> Check for end
